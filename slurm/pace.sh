@@ -21,3 +21,6 @@ echo "Running on GPU:"
 
 # Run the DeepSeek Python script
 python scripts/train_model.py
+python scripts/train_lora.py
+python scripts/evaluate_lora.py
+python scripts/evaluate_model.py
