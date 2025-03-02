@@ -5,7 +5,7 @@ get_logger()
 logger = get_logger()
 
 script_order = [
-    "train/train_model.py",
+    "train/train_deepseek.py",
     "train/train_lora.py",
     "evaluate/evaluate_model.py",
     "evaluate/evaluate_lora.py"
