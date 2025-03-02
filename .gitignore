@@ -1,0 +1,6 @@
+.env
+.HF_TOKEN
+.DS_Store
+.vscode/
+logs/
+*.log
